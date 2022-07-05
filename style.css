@@ -6,7 +6,7 @@
 
 .section-1 {
     display: flex;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
     margin-bottom: 100px;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .div-1 h1 {
-    font-size: 48px;
+    font-size: 100px;
     margin-left: 40px;
 
 }
@@ -30,6 +30,7 @@
 .div-1 p {
     margin-left: 40px;
     margin-bottom: 20px;
+    font-size: 30px;
 }
 
 .div-1 .link-1 {
@@ -39,6 +40,7 @@
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
+    font-size: 20px;
 }
 
 .div-2 {
@@ -54,7 +56,7 @@
 
 .section-2 {
     display: flex;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
     background-image: url(images/Frame-58.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,10 +81,12 @@
 
 .div-4 h2 {
     margin-bottom: 15px;
+    font-size: 50px;
 }
 
 .div-4 p {
     margin-bottom: 20px;
+    font-size: 25px;
 }
 
 .div-4 .link-2 {
@@ -91,12 +95,13 @@
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
+    font-size: 20px;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 .section-3 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
 }
 
 .div-5 {
@@ -110,13 +115,18 @@
 
 .div-5 h2 {
     margin-bottom: 15px;
+    font-size: 50px;
+}
+
+.div-5 p {
+    font-size: 25px;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 .section-4 {
     display: flex;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
 }
 
 .div-6 {
@@ -136,12 +146,14 @@
 .div-6 h3 {
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 50px;
 }
 
 .div-6 p {
     padding-left: 10px;
     padding-right: 10px;
     margin-bottom: 20px;
+    font-size: 25px;
 }
 
 .div-7 {
@@ -160,12 +172,14 @@
 .div-7 h3 {
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 50px;
 }
 
 .div-7 p {
     padding-left: 10px;
     padding-right: 10px;
     margin-bottom: 20px;
+    font-size: 25px;
 }
 
 
@@ -177,11 +191,11 @@
     margin-top: 80px;
     box-shadow: 7px 7px 14px 0px gray;
     margin-bottom: 50px;
-    height: 140px;
+    height: 170px;
     padding-left: 10%;
     width: 76%;
     margin-left: 7%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
 }
 
 .div-8 {
@@ -189,25 +203,49 @@
     padding-top: 40px;
 }
 
+.div-8 h3 {
+    font-size: 50px;
+}
+
+.div-8 p {
+    font-size: 25px;
+}
+
 .div-9 {
     width: 30%;
     padding-top: 40px;
 }
+
+.div-9 h3 {
+    font-size: 50px;
+}
+
+.div-9 p {
+    font-size: 25px;
+}
+
 
 .div-10 {
     width: 30%;
     padding-top: 40px;
 }
 
+.div-10 h3 {
+    font-size: 50px;
+}
+
+.div-10 p {
+    font-size: 25px;
+}
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 .section-6 {
     margin-top: 100px;
-    margin-bottom: 30px;
     background-color: black;
     height: 200px;
     width: auto;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
 }
 
 .div-11 {
@@ -220,6 +258,11 @@
     color: orange;
 }
 
+.div-11 h3 {
+    font-size: 50px;
+}
+
 .div-11 p {
     margin-top: 10px;
+    font-size: 25px;
 }
