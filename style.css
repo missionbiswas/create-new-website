@@ -35,7 +35,7 @@
 .div-1 .link-1 {
     margin-left: 40px;
     text-decoration: none;
-    background-image: linear-gradient(red, tomato);
+    background-image: linear-gradient(green, black);
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
@@ -87,7 +87,7 @@
 
 .div-4 .link-2 {
     text-decoration: none;
-    background-image: linear-gradient(red, tomato);
+    background-image: linear-gradient(green, black);
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
@@ -95,7 +95,9 @@
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-.section-3 {}
+.section-3 {
+    font-family: 'Poppins', sans-serif;
+}
 
 .div-5 {
     margin-top: 100px;
@@ -104,7 +106,6 @@
     text-align: center;
     height: 200px;
     width: auto;
-    font-family: 'Poppins', sans-serif;
 }
 
 .div-5 h2 {
@@ -115,6 +116,7 @@
 
 .section-4 {
     display: flex;
+    font-family: 'Poppins', sans-serif;
 }
 
 .div-6 {
@@ -175,25 +177,49 @@
     margin-top: 80px;
     box-shadow: 7px 7px 14px 0px gray;
     margin-bottom: 50px;
-    height: 100px;
+    height: 140px;
     padding-left: 10%;
-    width: 88%;
-    margin-left: 1%;
+    width: 76%;
+    margin-left: 7%;
+    font-family: 'Poppins', sans-serif;
 }
 
 .div-8 {
     width: 30%;
-    background-color: #ededed;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 .div-9 {
     width: 30%;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 .div-10 {
     width: 30%;
-    background-color: #ededed;
-    padding-top: 30px;
+    padding-top: 40px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section-6 {
+    margin-top: 100px;
+    margin-bottom: 30px;
+    background-color: black;
+    height: 200px;
+    width: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+.div-11 {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.div-11 span {
+    color: orange;
+}
+
+.div-11 p {
+    margin-top: 10px;
 }
