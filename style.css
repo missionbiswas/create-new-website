@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.section-1 {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 100px;
+}
+
+.div-1 {
+    width: 48%;
+    padding: 50px;
+    padding-top: 100px;
+    margin-right: 4%;
+}
+
+.div-1 h1 {
+    font-size: 48px;
+    margin-left: 40px;
+
+}
+
+.div-1 span {
+    color: orange;
+}
+
+.div-1 p {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.div-1 .link-1 {
+    margin-left: 40px;
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.div-2 {
+    width: 50%;
+}
+
+.div-2 img {
+    width: 609px;
+    height: 698px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section-2 {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/Frame-58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div-3 {
+    width: 50%;
+}
+
+.div-3 img {
+    margin-top: 40px;
+    height: 700px;
+    width: 480px;
+    margin-left: 90px;
+}
+
+.div-4 {
+    width: 50%;
+    padding-top: 270px;
+    padding-right: 50px;
+}
+
+.div-4 h2 {
+    margin-bottom: 15px;
+}
+
+.div-4 p {
+    margin-bottom: 20px;
+}
+
+.div-4 .link-2 {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section-3 {}
+
+.div-5 {
+    margin-top: 100px;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+    height: 200px;
+    width: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+.div-5 h2 {
+    margin-bottom: 15px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section-4 {
+    display: flex;
+}
+
+.div-6 {
+    width: 40%;
+    border: 8px solid white;
+    box-shadow: 7px 7px 14px 0px gray;
+    border-radius: 30px;
+    margin-left: 8%;
+    margin-right: 4%;
+}
+
+.div-6 img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.div-6 h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.div-6 p {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+.div-7 {
+    width: 40%;
+    border: 8px solid white;
+    box-shadow: 7px 7px 14px 0px gray;
+    border-radius: 30px;
+    margin-right: 8%;
+}
+
+.div-7 img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.div-7 h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.div-7 p {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section-5 {
+    display: flex;
+    text-align: center;
+    margin-top: 80px;
+    box-shadow: 7px 7px 14px 0px gray;
+    margin-bottom: 50px;
+    height: 100px;
+    padding-left: 10%;
+    width: 88%;
+    margin-left: 1%;
+}
+
+.div-8 {
+    width: 30%;
+    background-color: #ededed;
+    padding-top: 30px;
+}
+
+.div-9 {
+    width: 30%;
+    padding-top: 30px;
+}
+
+.div-10 {
+    width: 30%;
+    background-color: #ededed;
+    padding-top: 30px;
+}
